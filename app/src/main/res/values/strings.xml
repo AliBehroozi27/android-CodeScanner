@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Code Scanner</string>
+    <string name="picture_unreadable">picture is not readable</string>
+    <string name="result_toolbar_title">Result</string>
+    <string name="copy_option_message">copied to clipboard</string>
+    <string name="action_mode_title">items</string>
+    <string name="ad_button">search</string>
+    <string name="no_country_found">no country found</string>
+    <string name="least_number">3 numbers needed at least</string>
+    <string name="navigation_drawer_open">open nd</string>
+    <string name="navigation_drawer_close">close nd</string>
+</resources>
